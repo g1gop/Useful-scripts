@@ -4,4 +4,6 @@ If anything here looks like your code then please drop me a line and if you wish
 The aim of this repo is to learn about Github and to try to contribute in a small way.
 Being a 'hardware guy'(and dyslexic), I found trying to remember the snytax of some commands a pain. so I tend to write scripts to do simple tasks for me.
 If you have any suggestions then please pass them along. Lets share!
+Thanks
 Alan
+
