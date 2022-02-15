@@ -1,8 +1,0 @@
-#! /bin/bash
-#shutdown MSDOS 6.22
-VBoxManage controlvm "{da78626e-e40d-499e-8e9f-22f00d9ea215}" poweroff
-#shutdown Mint XFCE 32 bit
-VBoxManage controlvm "{9014aa5d-8dbe-4c89-a119-332bc6c4c53e}" savestate
-#Shutdown Windows NT4 Server
-VBoxManage controlvm "{12179111-e7a8-45eb-96aa-159340d4016c}" savestate
-

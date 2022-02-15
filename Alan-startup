@@ -1,7 +1,0 @@
-#! /bin/bash
-#start Windows NT4 Server
-VBoxManage startvm "{12179111-e7a8-45eb-96aa-159340d4016c}"
-#Start Mint XFCE 32 bit
-VBoxManage startvm "{9014aa5d-8dbe-4c89-a119-332bc6c4c53e}"
-#Start MSDOS 6.22
-VBoxManage startvm  "{da78626e-e40d-499e-8e9f-22f00d9ea215}"
